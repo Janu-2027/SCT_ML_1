@@ -23,3 +23,9 @@ This project predicts house prices using the **Kaggle House Prices - Advanced Re
    ```bash
    pip install pandas scikit-learn matplotlib joblib
 
+## How to Run
+
+1. Open `house_prices_linear_regression.ipynb` in Google Colab.
+2. Ensure `house_price_model.pkl` is in the same folder.
+3. Run all cells to see predictions.
+
